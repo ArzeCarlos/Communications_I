@@ -1,0 +1,10 @@
+git add .
+git commit -m "Commit-name"
+git push -u origin main
+///////Primera vez/////////////////
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ArzeCarlos/Communications_I.git
+git push -u origin main
